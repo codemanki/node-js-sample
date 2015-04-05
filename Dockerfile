@@ -1,4 +1,4 @@
-FROM octohost/nodejs-nginx
+FROM oleks/site
 
 WORKDIR /srv/www
 
